@@ -1,7 +1,5 @@
 # Stock_Price_Prediction_using_RNN_LSTM
 
-# Stock-Price-Prediction-using-Recurrent-Neural-Networks-LSTM
-
 Stock Price Prediction of Apple Inc. Using LSTM Recurrent Neural Network
 
 # Dataset:
